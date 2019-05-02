@@ -44,19 +44,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/2019/05/02/vs-code/"/>
-      <url>/2019/05/02/vs-code/</url>
-      
-        <content type="html"><![CDATA[<hr><p>title: Visual Studio Code相关<br>toc: true<br>comments: true<br>mathjax: true<br>date: 2019-05-02 18:28:26<br>tags:  </p><ul><li>松鼠症  </li><li>效率工具<br>categories:  </li><li>利器<br>description: 记录一些有用的vs code使用技巧，插件等  </li></ul><hr><h3 id="Extension"><a href="#Extension" class="headerlink" title="Extension"></a>Extension</h3><ul><li><strong>Markdown Preview Enhanced</strong><br>markdown预览功能</li><li><strong>Markdown-AutoLinefeed</strong><br>写.md文档时自动填充换行和空格 </li><li><strong>Markdown To-Do</strong><br>在.md文件中插入待办事情</li><li><strong>LeetCode</strong><br>在vs-code里写算法题呀<a href="https://github.com/jdneo/vscode-leetcode" target="_blank" rel="noopener"><i class="fab fa-github"></i></a></li></ul><p><head><meta name="generator" content="Hexo 3.8.0">  </head></p><p><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script>  </p><p><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script><br>  </p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">  ]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>一些在孔夫子买/拍到书</title>
       <link href="/2019/05/02/book-kongfz/"/>
       <url>/2019/05/02/book-kongfz/</url>
