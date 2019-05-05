@@ -4,6 +4,54 @@
   
     
     <entry>
+      <title>刷题中碰到的一些问题和技巧</title>
+      <link href="/2019/05/05/%E5%88%B7%E9%A2%98%E4%B8%AD%E7%A2%B0%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%92%8C%E6%8A%80%E5%B7%A7/"/>
+      <url>/2019/05/05/%E5%88%B7%E9%A2%98%E4%B8%AD%E7%A2%B0%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98%E5%92%8C%E6%8A%80%E5%B7%A7/</url>
+      
+        <content type="html"><![CDATA[<h4 id="IDE使用"><a href="#IDE使用" class="headerlink" title="IDE使用"></a>IDE使用</h4><ul><li>最初刷题的时候使用的是Visual Studio</li></ul><ol><li>项目创建<br><img src="https://i.loli.net/2019/05/05/5cce3b80c69f5.png" alt="vs 创建.png"><br><strong>一些需要修改的地方如图：</strong></li><li>关闭sdl安全检查<br><img src="https://i.loli.net/2019/05/05/5cce3a9198ade.png" alt="scanf.png"><br><img src="https://i.loli.net/2019/05/05/5cce3b082e0c3.png" alt="sdl检查.png"></li><li>创建输入样例的文件，每次使用需要在属性中修改：<br><img src="https://i.loli.net/2019/05/05/5cce3bc862725.png" alt="属性.png"></li></ol><ul><li>然而大部分考场是没有宇宙无敌IDE的，所以要熟练的使用Code::Blocks或者DevC++</li></ul><ol><li>使Code::block支持C99标准<br>Setting-&gt;Compiler-&gt;Global compiler settings<br><img src="https://i.loli.net/2019/05/05/5cce3e2ff1938.png" alt="c99.png"></li><li>使DevCpp使用C++11标准<br>工具-&gt;编译器选项<br><img src="https://i.loli.net/2019/05/05/5cce3f2590a52.png" alt="c++11.png"></li><li>当样例是多组数据时创建一个输入文件和输出文件在调试的过程中会更加方便，在main.cpp的相同文件夹下创建a.in和a.out文件<br><img src="https://i.loli.net/2019/05/05/5cce40b28cb89.png" alt="fre.png"><br><head><meta name="generator" content="Hexo 3.8.0"><br><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script><br><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script><br></head> <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> OJ刷题 </tag>
+            
+            <tag> PAT </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TE_20190504</title>
+      <link href="/2019/05/04/TE-20190504/"/>
+      <url>/2019/05/04/TE-20190504/</url>
+      
+        <content type="html"><![CDATA[<ul><li>artful<br>1 (disapproving) clever at getting what you want, sometimes by not telling the truth 施展巧计的；取巧的 SYN crafty<br>2 (of things or actions 事物或行动) designed or done in a clever way 精巧的；巧妙的</li><li></li></ul><p><head><meta name="generator" content="Hexo 3.8.0"> </head></p><p><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> </p><p><script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script><br> </p><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 英语学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 英语 </tag>
+            
+            <tag> 经济学人精读 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>transactional analysis</title>
       <link href="/2019/05/02/transactional-analysis/"/>
       <url>/2019/05/02/transactional-analysis/</url>
